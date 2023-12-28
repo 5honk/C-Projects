@@ -1,6 +1,8 @@
+// created by 5honk - github
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+
 
 int main()
     {
