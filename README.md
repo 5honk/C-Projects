@@ -4,3 +4,6 @@ This repository is a collection of C langauge projects made in visual studio cod
 
 Resources for Project Ideas:
   https://www.geeksforgeeks.org/c-projects/
+
+Resources for Learning:
+  https://www.w3schools.com/c/index.php
