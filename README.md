@@ -2,5 +2,5 @@
 
 This repository is a collection of C langauge projects made in visual studio code. 
 
-Resources:
+Resources for Project Ideas:
   https://www.geeksforgeeks.org/c-projects/
