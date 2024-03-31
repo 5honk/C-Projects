@@ -19,7 +19,7 @@ This file is a demonstration to using GIT for the first time :D!
     git commit -m 'commit message goes here e.g. Updating software pacthes'
 
 5. We can finally push the file 
-    git push -u origin main
+    git push -f origin main
 
 6. A prompt will appear to enter your Github username and password. Since Github does'nt use the passwords for authentication, a token will need to be generated as the password
     /Settings/DeveloperSettings/Personal Access Token/ either fine-graned token or Token classic/ select all git options/ copy and paste the token to terminal
